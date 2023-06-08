@@ -49,4 +49,4 @@ function getJoke() {
 
     })
 }
-setInterval(getJoke , 5000)
+setInterval(getJoke , 20000)
